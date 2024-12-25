@@ -10,3 +10,5 @@ you can include the shader header and use the BlackBodyRadiation function to cal
 // use it like this
 vec4 radiation = BlackBodyRadiation(temprature, true, true); //rgb = chromaticity a = luminance
 ```
+
+[example](https://t.me/GameDevGeeks/385)
